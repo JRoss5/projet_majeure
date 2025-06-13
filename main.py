@@ -34,6 +34,7 @@ def check_uart():
                     else:
                         ir.write_info("User not found!\r\n")
                         
+                        
                 case FPGAState.EXIT:
                     if(db.is_pin_registered(fs.pin)):
                         db.reset_car_status_by_pin(fs.pin)
