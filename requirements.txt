@@ -1,0 +1,7 @@
+annotated-types==0.7.0
+pydantic==2.11.5
+pydantic_core==2.33.2
+pyserial==3.5
+tinydb==4.8.2
+typing-inspection==0.4.1
+typing_extensions==4.14.0

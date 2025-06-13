@@ -1,0 +1,1 @@
+{"_default": {"2": {"name": "Lisa", "rfid": 5432, "pin": 2345, "status": "NOTIN_GARAGE"}, "3": {"name": "Gabriel", "rfid": 6543, "pin": 3456, "status": "NOTIN_GARAGE"}, "4": {"name": "George", "rfid": 7654, "pin": 4567, "status": "NOTIN_GARAGE"}, "5": {"name": "Paul", "rfid": 4321, "pin": 1234, "status": "IN_GARAGE"}}}
